@@ -72,6 +72,8 @@ a {
   text-decoration:none;
   text-transform: uppercase;
 }
+summary{
+	color:red;
 
 a:hover {
    cursor: pointer;
