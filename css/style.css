@@ -1,5 +1,5 @@
 body{
-	background-color: grey;
+	background-color: lightgrey;
 	margin: 2%;
 
 }
@@ -74,6 +74,11 @@ a {
 }
 summary{
 	color:red;
+}
+progress{
+	color:red;
+}
+	
 
 a:hover {
    cursor: pointer;
