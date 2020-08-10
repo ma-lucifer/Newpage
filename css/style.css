@@ -57,6 +57,7 @@ figcaption{
 }
 summary{
 	font-family: Impact,Charcoal,sans-serif;
+	color:red;
 }
 p{
 	font-family: "Comic Sans Ms",cursive,sans-serif;
@@ -72,11 +73,8 @@ a {
   text-decoration:none;
   text-transform: uppercase;
 }
-summary{
-	color:red;
-}
 progress{
-	color:red;
+	background-color:red;
 }
 	
 
